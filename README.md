@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khushixxxx
-- 👀 I’m interested in Cloud computing 
-- 🌱 I’m currently learning Cloud computing 
+- 👀 I’m interested in devops and cloud computing
+- 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
