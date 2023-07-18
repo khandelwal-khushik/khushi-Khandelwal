@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khushixxxx
+- 👋 Hi, I’m @khandelwal-khushik
 - 👀 I’m interested in devops and cloud computing
 - 🌱 I’m currently learning devops
 - 💞️ I’m looking to collaborate on ...
